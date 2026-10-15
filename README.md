@@ -82,7 +82,7 @@ The project is split into three files:
 ### Running the Game
 
 ```bash
-python RPS.py
+python Main.py
 ```
 
 ## Controls
